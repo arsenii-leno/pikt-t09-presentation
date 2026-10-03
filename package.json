@@ -1,0 +1,18 @@
+{
+  "name": "pikt-t09-presentation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "marp -s presentation.md",
+    "build:html": "marp presentation.md -o dist/index.html",
+    "build:pdf": "marp presentation.md --pdf -o dist/presentation.pdf"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@marp-team/marp-cli": "^4.5.1"
+  }
+}
