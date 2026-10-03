@@ -1,7 +1,3 @@
-Kör följande kommando i terminalen från projektets rotkatalog (`~/pikt-t09-presentation`) för att generera filen `README.md` och skicka den direkt till GitHub-arkivet:
-
-```bash
-cat << 'EOF' > README.md
 # PIKT 2026 – T09: Právna zodpovednosť za kybernetický incident[cite: 1]
 
 Prezentácia a tímové podklady k ročníkovej práci z predmetu Právo informačných a komunikačných technológií (PIKT 2026) na FIIT STU[cite: 1].
