@@ -102,7 +102,3 @@ git commit -m "feat(sekcia-X): aktualizácia obsahu"
 git push origin main
 
 ```
-
-Dokumentet strukturerar projektets formella ramar med ett totalt ordkrav på 2 000–4 000 ord och minst 500 ord per person[cite: 1], fördelar ansvarsområdena för tema T09[cite: 1] samt förklarar de tekniska kommandona för Marp och versionshanteringen i Git.
-
-```
